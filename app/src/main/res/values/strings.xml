@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">COSU app</string>
+    <string name="lock_state_enable">enable lock state</string>
+    <string name="lock_state_disable">Disable lock state</string>
+    <string name="keygaurd_disable">Disable keygaurd</string>
+    <string name="keygarud_enable">enable keygaurd</string>
+    <string name="status_bar_disable">disable status bar</string>
+    <string name="status_bar_enable">enable status bar</string>
+    <string name="stay_on_enable">enable stay on</string>
+    <string name="stay_on_disable">disable stay on</string>
+    <string name="safe_boot_disable">disable safe boot</string>
+    <string name="safe_boot_enable">enable safe boot</string>
+    <string name="keyguard_disable">Disable keyguard</string>
+    <string name="keyguard_enable">Enable keyguard</string>
+</resources>
